@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Kashyap</h1>
-<h3 align="center">Aspiring Data Analyst | Excel • SQL • Python • Power BI</h3>
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Python | Power BI</h3>
 
 <p align="center">
   Turning raw data into clear, actionable business insights.
@@ -9,13 +9,13 @@
 
 - 📊 Aspiring **Data Analyst** seeking internship, full-time, and freelance opportunities.
 - 🔭 Building end-to-end analytics projects using **Excel, SQL, Python, and Power BI**.
-- 🌱 Strengthening skills in **Advanced SQL, data cleaning, dashboard design, and data visualization**.
+- 🌱 Strengthening skills in **SQL, data cleaning, dashboard design, and data visualization**.
 - 💼 Open to collaborating on **data analysis, reporting, dashboard, and business intelligence projects**.
 - 💬 Ask me about **Excel, SQL, Python, Power BI, data cleaning, and data visualization**.
 - 📫 Reach me at **sachin1112777@gmail.com**
 - ⚡ I enjoy transforming messy datasets into meaningful insights and useful dashboards.
 
-## What I Can Help With
+## Skills & What | Work With
 
 - Data cleaning and preparation  
 - Excel reports, formulas, PivotTables, and dashboards  
